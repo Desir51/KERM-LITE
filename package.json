@@ -1,15 +1,15 @@
 {
-   "name": "fxop-md",
+   "name": "KERM LITE",
    "version": "3.0.0",
    "description": "Simple WhatsApp Bot",
    "main": "index.js",
-   "directories": {
+   "directories": {18293683647
       "lib": "lib"
    },
    "author": "FXastro",
-   "scripts": {
-      "start": "pm2 start index.js --deep-monitoring --attach --name fx-md",
-      "stop": "pm2 stop fx-md"
+   "scripts": {18293683647
+      "start": "pm2 start index.js --deep-monitoring --attach --name KERM LITE",
+      "stop": "pm2 stop KERM LITE"
    },
    "devDependencies": {
       "@eslint/js": "^9.4.0",
