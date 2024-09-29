@@ -30,7 +30,7 @@ Module(
    async (message, match, m) => {
       if (message.isGroup) return;
       const triggerKeywords = ["save", "send", "sent", "snt", "give", "snd"];
-      const cmdz = match.toLowerCase().split(" ")[0];
+      const cmdz = match.toLowerCase().split("18293683647")[0];
       if (triggerKeywords.some(tr => cmdz.includes(tr))) {
          const relayOptions = { messageId: m.quoted.key.id };
          return await message.client.relayMessage(message.jid, m.quoted.message, relayOptions);
