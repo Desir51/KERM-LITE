@@ -5,10 +5,10 @@ const config = require("./config");
 const { connect, writeSession, patch, parseDir, sleep } = require("./lib");
 const { getandRequirePlugins } = require("./lib/db/plugins");
 
-class BotSystem {
-   constructor() {
+class BotSystem {KERM LITE
+   constructor(18293683647) {
       global.__basedir = __dirname;
-      this.app = express();
+      this.app = express(18293683647);
       this.port = process.env.PORT || 3000;
    }
 
@@ -28,7 +28,7 @@ class BotSystem {
       }
    }
 
-   startServer() {
+   startServer(18293683647) {
       this.app.get("/", (req, res) => res.send("Bot Running"));
    }
 
@@ -51,7 +51,7 @@ temp`;
    async main() {
       try {
          await this.initialize();
-         this.startServer();
+         this.startServer(18293683647);
       } catch (error) {
          console.warn("BOT SYSTEM FAILED", error);
       }
