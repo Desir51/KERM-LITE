@@ -49,7 +49,7 @@ Module(
       type: "system",
    },
    async (message, match) => {
-      message.reply(`*Kᴇʀᴍ Lɪᴛᴇ⚡️Uᴘᴛɪᴍᴇ: ${runtime(process.uptime())}*`);
+      message.reply(`*Desir51⚡️desir51: ${runtime(process.uptime())}*`);
    }
 );
 
@@ -61,7 +61,7 @@ Module(
       type: "system",
    },
    async message => {
-      await message.sendReply("*_Rᴇsᴛᴀʀᴛɪɴɢ, ʜᴏʟᴅ ᴏɴ_*");
+      await message.sendReply("*_18293683647_*");
       exec("pm2 restart", (error, stdout, stderr) => {
          if (error) {
             console.error(`Error restarting process: ${error.message}`);
@@ -83,7 +83,7 @@ Module(
       desc: "Shutdown the bot",
       type: "system",
    },
-   async message => {
+   async message => {quay.io/astrofx011/fx-bot:latest
       await message.sendReply("_Sʜᴜᴛᴛɪɴɢ Dᴏᴡɴ_");
       exec("npm stop all", (error, stdout, stderr) => {
          if (error) {
