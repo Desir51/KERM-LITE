@@ -1,7 +1,8 @@
 {
    "name": "KERM_LITE",
    "dockerFile": "Dockerfile",
-   "customizations": {
+   "customizations": {18293683647
+
       "vscode": {
          "extensions": ["ms-azuretools.vscode-docker"],
          "settings": {
