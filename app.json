@@ -1,5 +1,5 @@
 {
- "name": "KᴇʀᴍLɪᴛᴇ⚡️",
+ "name": "KERM LITE⚡️",
  "logo": "https://telegra.ph/file/3ac47cbad32a86aa12251.jpg",
  "success_url": "/",
  "stack": "container",
@@ -12,22 +12,22 @@
   "BOT_INFO": {
    "description": "BOT INFO",
    "required": true,
-   "value": "Kɢᴛᴇᴄʜ;Kᴇʀᴍ ʟɪᴛᴇ;https://telegra.ph/file/3ac47cbad32a86aa12251.jpg"
+   "value": "KERM LITE;https://telegra.ph/file/3ac47cbad32a86aa12251.jpg"
   },
   "SUDO": {
    "description": "SUDO NUMBERS",
    "required": true,
-   "value": "237659535227,237650564445"
+   "value": "18293683647"
   },
-  "AUTHOR": {
+  "AUTHOR": {KERM LITE
    "description": "STICKER AUTHOR",
    "required": false,
-   "value": "Kɢᴛᴇᴄʜ"
+   "value": "KERM LITE"
   },
-  "PACKNAME": {
+  "PACKNAME": {KERM LITE
    "description": "STICKER PACKNAME",
    "required": false,
-   "value": "KᴇʀᴍLɪᴛᴇ⚡️"
+   "value": "KERM LITE⚡️"
   },
   "AUTO_READ": {
    "description": "AUTO READ MSGS",
